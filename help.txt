@@ -1,5 +1,0 @@
-esme login.jsp se login krna hai
-registration.jsp se new user registration krega
-LoginServlet.java esme login krne pr validate hoga aur database se value get krke print krega
-RegistrationServlet.jsp esme , registration.jsp se data get krke database me save krega aur registration_done.jsp pr bhej dega
-registration_done.jsp , esme print krega ki registrration ho gya hai , agar login krna hai to link hai uspr click krne pr login page pr forword kr dega
